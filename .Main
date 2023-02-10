@@ -1,5 +1,3 @@
-
-
 #include <FlexCAN_T4.h>
 #include <MPU6050_6Axis_MotionApps_V6_12.h>
 #include <I2Cdev.h>
